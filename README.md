@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask Docker Homework
 
 เว็บแอปพลิเคชันง่าย ๆ ด้วย Flask ที่รับข้อความผ่านฟอร์ม (POST), แสดงผลบนหน้าเว็บ, และบันทึกลงไฟล์ `log.txt` ภายใน container
@@ -62,3 +63,6 @@ docker cp flask_docker_homework:/app/log.txt ./log.txt
 1. สร้าง repository บน GitHub ชื่อ `flask-docker-homework`
 2. push ไฟล์ทั้งหมด: `app.py`, `Dockerfile`, `requirements.txt`, `docker-compose.yml`, `log.txt` (ตัวอย่างที่ copy ออกมา), และภาพหน้าจอ 3 ภาพ (แนะนำเก็บในโฟลเดอร์ `screenshots/`)
 3. แนบลิงก์ GitHub repo ส่งใน Google Classroom
+=======
+# flask-docker-homework
+>>>>>>> 9429813d43d80bcdf5d4a863e04f44aa71eda45b
